@@ -1,2 +1,2 @@
 # SpringBoot-StudentManagementApp-CRUD
-Creating RestApi - CRUD Operations Practice / Acciojob / Noida
+RESTful Spring Boot application implementing CRUD operations for managing student records.
